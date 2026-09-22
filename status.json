@@ -1,6 +1,6 @@
 {
-  "revision": 3,
-  "updatedAt": "2026-09-22T06:04:54.992Z",
+  "revision": 4,
+  "updatedAt": "2026-09-22T06:05:05.993Z",
   "announcement": {
     "enabled": true,
     "startsAt": null,
@@ -8,7 +8,7 @@
     "text": "Hi"
   },
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "startsAt": null,
     "endsAt": null,
     "title": "Scheduled maintenance",
