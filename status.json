@@ -1,0 +1,42 @@
+{
+  "revision": 0,
+  "updatedAt": null,
+  "announcement": {
+    "enabled": false,
+    "text": "",
+    "startsAt": null,
+    "endsAt": null
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "Scheduled maintenance",
+    "message": "We’ll be back shortly.",
+    "startsAt": null,
+    "endsAt": null,
+    "scope": "anime"
+  },
+  "releases": [
+    {
+      "id": "1.2.0",
+      "version": "1.2.0",
+      "date": "2026-09-22",
+      "title": "A home for what’s new",
+      "highlights": [
+        "Live announcements and scheduled maintenance notices across NOIR installations.",
+        "Redesigned settings with startup choices, next-episode control, and local backups.",
+        "A dedicated Updates page and a GitHub-verified owner console."
+      ]
+    },
+    {
+      "id": "1.1.0",
+      "version": "1.1.0",
+      "date": "2026-09-22",
+      "title": "Your library, after dark",
+      "highlights": [
+        "Game cover icons and selected-game artwork.",
+        "Anime covers, episode lists, subtitles and playback inside NOIR.",
+        "Pure black surfaces, rounded controls and a cleaner profile."
+      ]
+    }
+  ]
+}
