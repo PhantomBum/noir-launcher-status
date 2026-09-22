@@ -1,8 +1,8 @@
 {
-  "revision": 6,
-  "updatedAt": "2026-09-22T20:14:58.984Z",
+  "revision": 7,
+  "updatedAt": "2026-09-22T20:15:02.917Z",
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "startsAt": null,
     "endsAt": null,
     "text": "Hi"
