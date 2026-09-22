@@ -1,6 +1,6 @@
 {
-  "revision": 7,
-  "updatedAt": "2026-09-22T20:15:02.917Z",
+  "revision": 8,
+  "updatedAt": "2026-09-22T20:19:51.5743252Z",
   "announcement": {
     "enabled": false,
     "startsAt": null,
@@ -17,10 +17,22 @@
   },
   "releases": [
     {
+      "id": "1.4.0",
+      "version": "1.4.0",
+      "date": "2026-09-22",
+      "title": "Less noise. More NOIR.",
+      "highlights": [
+        "Removed Extensions and decorative fine print.",
+        "Redesigned Discover with selectable featured games and cleaner cards.",
+        "Refined Anime with featured artwork, larger covers, and a simpler episode layout.",
+        "Simplified maintenance and Updates while keeping scheduled service controls."
+      ]
+    },
+    {
       "id": "1.3.0",
       "version": "1.3.0",
       "title": "More than a launcher",
-      "date": "2026-09-22T00:00:00.000Z",
+      "date": "2026-09-22T00:00:00Z",
       "highlights": [
         "Discover Steam games, browse sales and free-to-play picks, and hand off installations to Steam.",
         "Install sandboxed HTML/CSS/JavaScript extensions, with a working Focus Timer example.",
@@ -31,7 +43,7 @@
       "id": "1.2.0",
       "version": "1.2.0",
       "title": "A home for what’s new",
-      "date": "2026-09-22T00:00:00.000Z",
+      "date": "2026-09-22T00:00:00Z",
       "highlights": [
         "Live announcements and scheduled maintenance notices across NOIR installations.",
         "Redesigned settings with startup choices, next-episode control, and local backups.",
@@ -42,7 +54,7 @@
       "id": "1.1.0",
       "version": "1.1.0",
       "title": "Your library, after dark",
-      "date": "2026-09-22T00:00:00.000Z",
+      "date": "2026-09-22T00:00:00Z",
       "highlights": [
         "Game cover icons and selected-game artwork.",
         "Anime covers, episode lists, subtitles and playback inside NOIR.",
